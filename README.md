@@ -7,7 +7,7 @@ It is specifically meant for images but can be changed to anything else (think o
 
  - Define a URL to search in
  - Define a save folder
- - Define an element to search through for links (like href or src etc)
+ - Define an element to search through for links (like a or img etc)
  - Define a reference class to filter the results with
  - Define whether you would like to monitor the URL for any changes
 
